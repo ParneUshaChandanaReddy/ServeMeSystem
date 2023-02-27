@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.1342451874366768" />
+        <entry key="app/src/main/res/drawable-v24/bg_border.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable-v24/switch_backgriund.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable-v24/switch_bg.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable-v24/switch_bg_gray.xml" value="0.1625" />
+        <entry key="app/src/main/res/drawable-v24/switch_outline.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable/bg_border.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/bottom_border.xml" value="0.1755" />
+        <entry key="app/src/main/res/drawable/btn_bg.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/gray_bg.xml" value="0.1625" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/ic_more.xml" value="0.1755" />
+        <entry key="app/src/main/res/drawable/switch_backgriund.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/switch_bg.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/switch_bg_gray.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/switch_outline.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/underline.xml" value="0.1715" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/bid_dialog.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/change_password.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/content_home_activity_customer.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/customer_bids_fragment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/customer_dashboard_activity.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/customer_home_activity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/customer_my_services_adapter.xml" value="0.18828125" />
+        <entry key="app/src/main/res/layout/customer_services_fragment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/cutomer_bids_adapter.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/home_activity.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/home_fragment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/listitm.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/login_activity.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/payment_dialog.xml" value="0.2439935302734375" />
+        <entry key="app/src/main/res/layout/rating_popup.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/settings_fragment.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/splash_activity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/text_vw.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/tnc_activity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/update_dialog.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/vendor_customer_activity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/vendor_home_activity.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/layout/vendor_select_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/vendor_selection_activity.xml" value="0.25104166666666666" />
+        <entry key="app/src/main/res/menu/drawer_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

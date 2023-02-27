@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10363083476",
+    "project_id": "serve-me-system-f2707",
+    "storage_bucket": "serve-me-system-f2707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10363083476:android:47600c478a249c26667941",
+        "android_client_info": {
+          "package_name": "com.example.servemesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10363083476-gc4k1tbktcla4ddkqpkst3to5ljcs128.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtiBcIf9ECBqLsNoa5YNwat9A67VBzEgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10363083476-gc4k1tbktcla4ddkqpkst3to5ljcs128.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
